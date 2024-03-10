@@ -1,0 +1,14 @@
+{
+    "name": "houss/cv-maker",
+    "description": "Application web pour la gestion de connexions utilisant Firebase JWT",
+    "require": {
+        "firebase/php-jwt": "6.10"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Houss\\CvMaker\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
